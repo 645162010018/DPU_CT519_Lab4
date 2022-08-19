@@ -18,6 +18,8 @@
 --
 -- Table structure for table `Movie_Name`
 --
+CREATE DATABASE CT519_Movies;
+
 USE CT519_Movies;
 
 DROP TABLE IF EXISTS `Movie_Name`;
